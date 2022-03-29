@@ -1,5 +1,4 @@
 # JavaOOP
-## Description
 Online ticketing API made to ease the process of purchasing tickets to your favourite event.
 
 ## Classes explanation
