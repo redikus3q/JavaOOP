@@ -14,4 +14,8 @@ public class Organizer {
     public void setName(String name) {
         this.name = name;
     }
+
+    public void show(){
+        System.out.println(this.getName());
+    }
 }

@@ -20,4 +20,8 @@ public class Address {
     public void setAddressLine(String addressLine) {
         this.addressLine = addressLine;
     }
+
+    public void show() {
+        System.out.println(this.getAddressLine() + " - " + this.getCity().getName());
+    }
 }

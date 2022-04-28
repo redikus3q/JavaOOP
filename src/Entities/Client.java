@@ -38,4 +38,9 @@ public class Client {
     public void setAddress(Address address) {
         this.address = address;
     }
+
+    public void show() {
+        System.out.println(this.getFirstName() + " " + this.getLastName() + " with address " + this.getAddress().getAddressLine());
+    }
+
 }

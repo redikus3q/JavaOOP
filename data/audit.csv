@@ -1,0 +1,669 @@
+asdsa,28/54/2022 08:54:20
+Load_addresses,28/55/2022 08:55:00
+Create_address Bulevardul Unirii 5,28/55/2022 08:55:00
+Create_address Aleea Pridvorului 1,28/55/2022 08:55:00
+Create_address Arne Janssen 23,28/55/2022 08:55:00
+Load_addresses,28/55/2022 08:55:00
+Create_address Bulevardul Unirii 5,28/55/2022 08:55:00
+Create_address Aleea Pridvorului 1,28/55/2022 08:55:00
+Create_address Arne Janssen 23,28/55/2022 08:55:00
+Get_addressAleea Pridvorului 1,28/55/2022 08:55:00
+Get_addressBulevardul Unirii 5,28/55/2022 08:55:00
+Get_addressArne Janssen 23,28/55/2022 08:55:00
+Get_all_addresses,28/55/2022 08:55:00
+asdsa,28/55/2022 08:55:00
+Load_cities,28/02/2022 09:02:05
+Create_address Bucharest,28/02/2022 09:02:05
+Create_address Berlin,28/02/2022 09:02:05
+Create_address Los Angeles,28/02/2022 09:02:05
+Load_cities,28/02/2022 09:02:05
+Create_address Bucharest,28/02/2022 09:02:05
+Create_address Berlin,28/02/2022 09:02:05
+Create_address Los Angeles,28/02/2022 09:02:05
+Load_addresses,28/02/2022 09:02:05
+Create_address Bulevardul Unirii 5,28/02/2022 09:02:05
+Get_city Bucharest,28/02/2022 09:02:05
+Create_address Aleea Pridvorului 1,28/02/2022 09:02:05
+Get_city Bucharest,28/02/2022 09:02:05
+Create_address Arne Janssen 23,28/02/2022 09:02:05
+Get_city Berlin,28/02/2022 09:02:05
+Load_cities,28/02/2022 09:02:05
+Create_address Bucharest,28/02/2022 09:02:05
+Create_address Berlin,28/02/2022 09:02:05
+Create_address Los Angeles,28/02/2022 09:02:05
+Load_addresses,28/02/2022 09:02:05
+Create_address Bulevardul Unirii 5,28/02/2022 09:02:05
+Get_city Bucharest,28/02/2022 09:02:05
+Create_address Aleea Pridvorului 1,28/02/2022 09:02:05
+Get_city Bucharest,28/02/2022 09:02:05
+Create_address Arne Janssen 23,28/02/2022 09:02:05
+Get_city Berlin,28/02/2022 09:02:05
+Load_clients ,28/02/2022 09:02:05
+Create_client Marian Popescu,28/02/2022 09:02:05
+Get_address Aleea Pridvorului 1,28/02/2022 09:02:05
+Create_client Ionel Danciulescu,28/02/2022 09:02:05
+Get_address Bulevardul Unirii 5,28/02/2022 09:02:05
+Create_client Thomas Muller,28/02/2022 09:02:05
+Get_address Arne Janssen 23,28/02/2022 09:02:05
+Load_organizers,28/02/2022 09:02:05
+Create_organizerYaya events,28/02/2022 09:02:05
+Create_organizerCrewetzel events,28/02/2022 09:02:05
+Create_address Sofia,28/02/2022 09:02:05
+Get_all_addresses,28/02/2022 09:02:05
+Get_all_addresses,28/02/2022 09:02:05
+Get_all_clients ,28/02/2022 09:02:05
+Get_all_events,28/02/2022 09:02:05
+Load_cities,28/09/2022 09:09:16
+Create_address Bucharest,28/09/2022 09:09:16
+Create_address Berlin,28/09/2022 09:09:16
+Create_address Los Angeles,28/09/2022 09:09:16
+Load_cities,28/09/2022 09:09:16
+Create_address Bucharest,28/09/2022 09:09:16
+Create_address Berlin,28/09/2022 09:09:16
+Create_address Los Angeles,28/09/2022 09:09:16
+Load_addresses,28/09/2022 09:09:16
+Create_address Bulevardul Unirii 5,28/09/2022 09:09:16
+Get_city Bucharest,28/09/2022 09:09:16
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:16
+Get_city Bucharest,28/09/2022 09:09:16
+Create_address Arne Janssen 23,28/09/2022 09:09:16
+Get_city Berlin,28/09/2022 09:09:16
+Load_cities,28/09/2022 09:09:16
+Create_address Bucharest,28/09/2022 09:09:16
+Create_address Berlin,28/09/2022 09:09:16
+Create_address Los Angeles,28/09/2022 09:09:16
+Load_addresses,28/09/2022 09:09:16
+Create_address Bulevardul Unirii 5,28/09/2022 09:09:16
+Get_city Bucharest,28/09/2022 09:09:16
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:16
+Get_city Bucharest,28/09/2022 09:09:16
+Create_address Arne Janssen 23,28/09/2022 09:09:16
+Get_city BerlinBulevardul Unirii 5,28/09/2022 09:09:16
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:16
+Get_city Bucharest,28/09/2022 09:09:16
+Create_address Arne Janssen 23,28/09/2022 09:09:16
+Get_city Berlin,28/09/2022 09:09:16
+Load_clients ,28/09/2022 09:09:16
+Create_client Marian Popescu,28/09/2022 09:09:16
+Get_address Aleea Pridvorului 1,28/09/2022 09:09:16
+Create_client Ionel Danciulescu,28/09/2022 09:09:16
+Get_address Bulevardul Unirii 5,28/09/2022 09:09:16
+Create_client Thomas Muller,28/09/2022 09:09:16
+Get_address Arne Janssen 23,28/09/2022 09:09:16
+Load_organizers,28/09/2022 09:09:16
+Create_organizerYaya events,28/09/2022 09:09:16
+Create_organizerCrewetzel events,28/09/2022 09:09:16
+Create_address Sofia,28/09/2022 09:09:16
+Get_all_addresses,28/09/2022 09:09:16
+Get_all_addresses,28/09/2022 09:09:16
+Get_all_clients ,28/09/2022 09:09:16
+Get_all_events,28/09/2022 09:09:16
+Load_cities,28/09/2022 09:09:48
+Create_address Bucharest,28/09/2022 09:09:48
+Create_address Berlin,28/09/2022 09:09:48
+Create_address Los Angeles,28/09/2022 09:09:48
+Load_cities,28/09/2022 09:09:48
+Create_address Bucharest,28/09/2022 09:09:48
+Create_address Berlin,28/09/2022 09:09:48
+Create_address Los Angeles,28/09/2022 09:09:48
+Load_addresses,28/09/2022 09:09:48
+Create_address Bulevardul Unirii 5,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Arne Janssen 23,28/09/2022 09:09:48
+Get_city BerlinBulevardul Unirii 5,28/09/2022 09:09:48
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Arne Janssen 23,28/09/2022 09:09:48
+Get_city Berlin,28/09/2022 09:09:48
+Create_address Bulevardul Unirii 5,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Arne Janssen 23,28/09/2022 09:09:48
+Get_city Berlin,28/09/2022 09:09:48
+Load_cities,28/09/2022 09:09:48
+Create_address Bucharest,28/09/2022 09:09:48
+Create_address Berlin,28/09/2022 09:09:48
+Create_address Los Angeles,28/09/2022 09:09:48
+Load_addresses,28/09/2022 09:09:48
+Create_address Bulevardul Unirii 5,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Arne Janssen 23,28/09/2022 09:09:48
+Get_city BerlinBulevardul Unirii 5,28/09/2022 09:09:48
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Arne Janssen 23,28/09/2022 09:09:48
+Get_city Berlin,28/09/2022 09:09:48
+Create_address Bulevardul Unirii 5,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:48
+Get_city Bucharest,28/09/2022 09:09:48
+Create_address Arne Janssen 23,28/09/2022 09:09:48
+Get_city Berlin,28/09/2022 09:09:48
+Load_clients ,28/09/2022 09:09:48
+Create_client Marian Popescu,28/09/2022 09:09:48
+Get_address Aleea Pridvorului 1,28/09/2022 09:09:48
+Create_client Ionel Danciulescu,28/09/2022 09:09:48
+Get_address Bulevardul Unirii 5,28/09/2022 09:09:48
+Create_client Thomas Muller,28/09/2022 09:09:48
+Get_address Arne Janssen 23,28/09/2022 09:09:48
+Load_organizers,28/09/2022 09:09:48
+Create_organizerYaya events,28/09/2022 09:09:48
+Create_organizerCrewetzel events,28/09/2022 09:09:48
+Create_address Sofia,28/09/2022 09:09:48
+Get_all_addresses,28/09/2022 09:09:48
+Get_all_addresses,28/09/2022 09:09:48
+Get_all_clients ,28/09/2022 09:09:48
+Get_all_events,28/09/2022 09:09:48
+Load_cities,28/09/2022 09:09:56
+Create_address Bucharest,28/09/2022 09:09:56
+Create_address Berlin,28/09/2022 09:09:56
+Create_address Los Angeles,28/09/2022 09:09:56
+Load_cities,28/09/2022 09:09:56
+Create_address Bucharest,28/09/2022 09:09:56
+Create_address Berlin,28/09/2022 09:09:56
+Create_address Los Angeles,28/09/2022 09:09:56
+Load_addresses,28/09/2022 09:09:56
+Create_address Bulevardul Unirii 5,28/09/2022 09:09:56
+Get_city Bucharest,28/09/2022 09:09:56
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:56
+Get_city Bucharest,28/09/2022 09:09:56
+Create_address Arne Janssen 23,28/09/2022 09:09:56
+Get_city Berlin,28/09/2022 09:09:56
+Load_cities,28/09/2022 09:09:56
+Create_address Bucharest,28/09/2022 09:09:56
+Create_address Berlin,28/09/2022 09:09:56
+Create_address Los Angeles,28/09/2022 09:09:56
+Load_addresses,28/09/2022 09:09:56
+Create_address Bulevardul Unirii 5,28/09/2022 09:09:56
+Get_city Bucharest,28/09/2022 09:09:56
+Create_address Aleea Pridvorului 1,28/09/2022 09:09:56
+Get_city Bucharest,28/09/2022 09:09:56
+Create_address Arne Janssen 23,28/09/2022 09:09:56
+Get_city Berlin,28/09/2022 09:09:56
+Load_clients ,28/09/2022 09:09:56
+Create_client Marian Popescu,28/09/2022 09:09:56
+Get_address Aleea Pridvorului 1,28/09/2022 09:09:56
+Create_client Ionel Danciulescu,28/09/2022 09:09:56
+Get_address Bulevardul Unirii 5,28/09/2022 09:09:56
+Create_client Thomas Muller,28/09/2022 09:09:56
+Get_address Arne Janssen 23,28/09/2022 09:09:56
+Load_organizers,28/09/2022 09:09:56
+Create_organizerYaya events,28/09/2022 09:09:56
+Create_organizerCrewetzel events,28/09/2022 09:09:56
+Create_address Sofia,28/09/2022 09:09:56
+Get_all_addresses,28/09/2022 09:09:56
+Get_all_addresses,28/09/2022 09:09:56
+Get_all_clients ,28/09/2022 09:09:56
+Get_all_events,28/09/2022 09:09:56
+Load_cities,28/17/2022 09:17:30
+Create_address Bucharest,28/17/2022 09:17:30
+Create_address Berlin,28/17/2022 09:17:30
+Create_address Los Angeles,28/17/2022 09:17:30
+Load_cities,28/17/2022 09:17:30
+Create_address Bucharest,28/17/2022 09:17:30
+Create_address Berlin,28/17/2022 09:17:30
+Create_address Los Angeles,28/17/2022 09:17:30
+Load_addresses,28/17/2022 09:17:30
+Create_address Bulevardul Unirii 5,28/17/2022 09:17:30
+Get_city Bucharest,28/17/2022 09:17:30
+Create_address Aleea Pridvorului 1,28/17/2022 09:17:30
+Get_city Bucharest,28/17/2022 09:17:30
+Create_address Arne Janssen 23,28/17/2022 09:17:30
+Get_city Berlin,28/17/2022 09:17:30
+Load_cities,28/17/2022 09:17:30
+Create_address Bucharest,28/17/2022 09:17:30
+Create_address Berlin,28/17/2022 09:17:30
+Create_address Los Angeles,28/17/2022 09:17:30
+Load_addresses,28/17/2022 09:17:30
+Create_address Bulevardul Unirii 5,28/17/2022 09:17:30
+Get_city Bucharest,28/17/2022 09:17:30
+Create_address Aleea Pridvorului 1,28/17/2022 09:17:30
+Get_city Bucharest,28/17/2022 09:17:30
+Create_address Arne Janssen 23,28/17/2022 09:17:30
+Get_city Berlin,28/17/2022 09:17:30
+Load_clients ,28/17/2022 09:17:30
+Create_client Marian Popescu,28/17/2022 09:17:30
+Get_address Aleea Pridvorului 1,28/17/2022 09:17:30
+Create_client Ionel Danciulescu,28/17/2022 09:17:30
+Get_address Bulevardul Unirii 5,28/17/2022 09:17:30
+Create_client Thomas Muller,28/17/2022 09:17:30
+Get_address Arne Janssen 23,28/17/2022 09:17:30
+Load_organizers,28/17/2022 09:17:30
+Create_organizerYaya events,28/17/2022 09:17:30
+Create_organizerCrewetzel events,28/17/2022 09:17:30
+Create_address Sofia,28/17/2022 09:17:30
+Get_all_addresses,28/17/2022 09:17:30
+Get_all_addresses,28/17/2022 09:17:30
+Get_all_clients ,28/17/2022 09:17:30
+Get_all_events,28/17/2022 09:17:30
+Load_cities,28/18/2022 09:18:12
+Create_address Bucharest,28/18/2022 09:18:12
+Create_address Berlin,28/18/2022 09:18:12
+Create_address Los Angeles,28/18/2022 09:18:12
+Load_cities,28/18/2022 09:18:12
+Create_address Bucharest,28/18/2022 09:18:12
+Create_address Berlin,28/18/2022 09:18:12
+Create_address Los Angeles,28/18/2022 09:18:12
+Load_addresses,28/18/2022 09:18:12
+Create_address Bulevardul Unirii 5,28/18/2022 09:18:12
+Get_city Bucharest,28/18/2022 09:18:12
+Create_address Aleea Pridvorului 1,28/18/2022 09:18:12
+Get_city Bucharest,28/18/2022 09:18:12
+Create_address Arne Janssen 23,28/18/2022 09:18:12
+Get_city Berlin,28/18/2022 09:18:12
+Load_cities,28/18/2022 09:18:12
+Create_address Bucharest,28/18/2022 09:18:12
+Create_address Berlin,28/18/2022 09:18:12
+Create_address Los Angeles,28/18/2022 09:18:12
+Load_addresses,28/18/2022 09:18:12
+Create_address Bulevardul Unirii 5,28/18/2022 09:18:12
+Get_city Bucharest,28/18/2022 09:18:12
+Create_address Aleea Pridvorului 1,28/18/2022 09:18:12
+Get_city Bucharest,28/18/2022 09:18:12
+Create_address Arne Janssen 23,28/18/2022 09:18:12
+Get_city Berlin,28/18/2022 09:18:12
+Load_clients ,28/18/2022 09:18:12
+Create_client Marian Popescu,28/18/2022 09:18:12
+Get_address Aleea Pridvorului 1,28/18/2022 09:18:12
+Create_client Ionel Danciulescu,28/18/2022 09:18:12
+Get_address Bulevardul Unirii 5,28/18/2022 09:18:12
+Create_client Thomas Muller,28/18/2022 09:18:12
+Get_address Arne Janssen 23,28/18/2022 09:18:12
+Load_organizers,28/18/2022 09:18:12
+Create_organizerYaya events,28/18/2022 09:18:12
+Create_organizerCrewetzel events,28/18/2022 09:18:12
+Create_address Sofia,28/18/2022 09:18:12
+Get_all_addresses,28/18/2022 09:18:12
+Create_address Bulevardul Ion Minulescu 39,28/18/2022 09:18:12
+Get_city Bucharest,28/18/2022 09:18:12
+Get_all_addresses,28/18/2022 09:18:12
+Get_all_clients ,28/18/2022 09:18:12
+Get_all_events,28/18/2022 09:18:12
+Load_cities,28/18/2022 09:18:35
+Create_address Bucharest,28/18/2022 09:18:35
+Create_address Berlin,28/18/2022 09:18:35
+Create_address Los Angeles,28/18/2022 09:18:35
+Load_cities,28/18/2022 09:18:35
+Create_address Bucharest,28/18/2022 09:18:35
+Create_address Berlin,28/18/2022 09:18:35
+Create_address Los Angeles,28/18/2022 09:18:35
+Load_addresses,28/18/2022 09:18:35
+Create_address Bulevardul Unirii 5,28/18/2022 09:18:35
+Get_city Bucharest,28/18/2022 09:18:35
+Create_address Aleea Pridvorului 1,28/18/2022 09:18:35
+Get_city Bucharest,28/18/2022 09:18:35
+Create_address Arne Janssen 23,28/18/2022 09:18:35
+Get_city Berlin,28/18/2022 09:18:35
+Load_cities,28/18/2022 09:18:35
+Create_address Bucharest,28/18/2022 09:18:35
+Create_address Berlin,28/18/2022 09:18:35
+Create_address Los Angeles,28/18/2022 09:18:35
+Load_addresses,28/18/2022 09:18:35
+Create_address Bulevardul Unirii 5,28/18/2022 09:18:35
+Get_city Bucharest,28/18/2022 09:18:35
+Create_address Aleea Pridvorului 1,28/18/2022 09:18:35
+Get_city Bucharest,28/18/2022 09:18:35
+Create_address Arne Janssen 23,28/18/2022 09:18:35
+Get_city Berlin,28/18/2022 09:18:35
+Load_clients ,28/18/2022 09:18:35
+Create_client Marian Popescu,28/18/2022 09:18:35
+Get_address Aleea Pridvorului 1,28/18/2022 09:18:35
+Create_client Ionel Danciulescu,28/18/2022 09:18:35
+Get_address Bulevardul Unirii 5,28/18/2022 09:18:35
+Create_client Thomas Muller,28/18/2022 09:18:35
+Get_address Arne Janssen 23,28/18/2022 09:18:35
+Load_organizers,28/18/2022 09:18:35
+Create_organizerYaya events,28/18/2022 09:18:35
+Create_organizerCrewetzel events,28/18/2022 09:18:35
+Create_address Sofia,28/18/2022 09:18:35
+Get_all_addresses,28/18/2022 09:18:35
+Create_address Bulevardul Ion Minulescu 39,28/18/2022 09:18:35
+Get_city Bucharest,28/18/2022 09:18:35
+Get_all_addresses,28/18/2022 09:18:35
+Get_all_clients ,28/18/2022 09:18:35
+Get_all_events,28/18/2022 09:18:35
+Load_cities,28/23/2022 09:23:33
+Create_address Bucharest,28/23/2022 09:23:33
+Create_address Berlin,28/23/2022 09:23:33
+Create_address Los Angeles,28/23/2022 09:23:33
+Load_cities,28/23/2022 09:23:33
+Create_address Bucharest,28/23/2022 09:23:33
+Create_address Berlin,28/23/2022 09:23:33
+Create_address Los Angeles,28/23/2022 09:23:33
+Load_addresses,28/23/2022 09:23:33
+Create_address Bulevardul Unirii 5,28/23/2022 09:23:33
+Get_city Bucharest,28/23/2022 09:23:33
+Create_address Aleea Pridvorului 1,28/23/2022 09:23:33
+Get_city Bucharest,28/23/2022 09:23:33
+Create_address Arne Janssen 23,28/23/2022 09:23:33
+Get_city Berlin,28/23/2022 09:23:33
+Load_cities,28/23/2022 09:23:33
+Create_address Bucharest,28/23/2022 09:23:33
+Create_address Berlin,28/23/2022 09:23:33
+Create_address Los Angeles,28/23/2022 09:23:33
+Load_addresses,28/23/2022 09:23:33
+Create_address Bulevardul Unirii 5,28/23/2022 09:23:33
+Get_city Bucharest,28/23/2022 09:23:33
+Create_address Aleea Pridvorului 1,28/23/2022 09:23:33
+Get_city Bucharest,28/23/2022 09:23:33
+Create_address Arne Janssen 23,28/23/2022 09:23:33
+Get_city Berlin,28/23/2022 09:23:33
+Load_clients ,28/23/2022 09:23:33
+Create_client Marian Popescu,28/23/2022 09:23:33
+Get_address Aleea Pridvorului 1,28/23/2022 09:23:33
+Create_client Ionel Danciulescu,28/23/2022 09:23:33
+Get_address Bulevardul Unirii 5,28/23/2022 09:23:33
+Create_client Thomas Muller,28/23/2022 09:23:33
+Get_address Arne Janssen 23,28/23/2022 09:23:33
+Load_organizers,28/23/2022 09:23:33
+Create_organizerYaya events,28/23/2022 09:23:33
+Create_organizerCrewetzel events,28/23/2022 09:23:33
+Create_address Sofia,28/23/2022 09:23:33
+Get_all_addresses,28/23/2022 09:23:33
+Create_address Bulevardul Ion Minulescu 39,28/23/2022 09:23:33
+Get_city Bucharest,28/23/2022 09:23:33
+Get_all_addresses,28/23/2022 09:23:33
+Get_all_clients ,28/23/2022 09:23:33
+Get_all_events,28/23/2022 09:23:33
+Load_cities,28/24/2022 09:24:16
+Create_address Bucharest,28/24/2022 09:24:16
+Create_address Berlin,28/24/2022 09:24:16
+Create_address Los Angeles,28/24/2022 09:24:16
+Load_cities,28/24/2022 09:24:16
+Create_address Bucharest,28/24/2022 09:24:16
+Create_address Berlin,28/24/2022 09:24:16
+Create_address Los Angeles,28/24/2022 09:24:16
+Load_addresses,28/24/2022 09:24:16
+Create_address Bulevardul Unirii 5,28/24/2022 09:24:16
+Get_city Bucharest,28/24/2022 09:24:16
+Create_address Aleea Pridvorului 1,28/24/2022 09:24:16
+Get_city Bucharest,28/24/2022 09:24:16
+Create_address Arne Janssen 23,28/24/2022 09:24:16
+Get_city Berlin,28/24/2022 09:24:16
+Create_address Bulevardul Ion Minulescu 39,28/24/2022 09:24:16
+Get_city Bucharest,28/24/2022 09:24:16
+Load_cities,28/24/2022 09:24:16
+Create_address Bucharest,28/24/2022 09:24:16
+Create_address Berlin,28/24/2022 09:24:16
+Create_address Los Angeles,28/24/2022 09:24:16
+Load_addresses,28/24/2022 09:24:16
+Create_address Bulevardul Unirii 5,28/24/2022 09:24:16
+Get_city Bucharest,28/24/2022 09:24:16
+Create_address Aleea Pridvorului 1,28/24/2022 09:24:16
+Get_city Bucharest,28/24/2022 09:24:16
+Create_address Arne Janssen 23,28/24/2022 09:24:16
+Get_city Berlin,28/24/2022 09:24:16
+Create_address Bulevardul Ion Minulescu 39,28/24/2022 09:24:16
+Get_city Bucharest,28/24/2022 09:24:16
+Load_clients ,28/24/2022 09:24:16
+Create_client Marian Popescu,28/24/2022 09:24:16
+Get_address Aleea Pridvorului 1,28/24/2022 09:24:16
+Create_client Ionel Danciulescu,28/24/2022 09:24:16
+Get_address Bulevardul Unirii 5,28/24/2022 09:24:16
+Create_client Thomas Muller,28/24/2022 09:24:16
+Get_address Arne Janssen 23,28/24/2022 09:24:16
+Load_organizers,28/24/2022 09:24:16
+Create_organizerYaya events,28/24/2022 09:24:16
+Create_organizerCrewetzel events,28/24/2022 09:24:16
+Create_address Sofia,28/24/2022 09:24:16
+Get_all_addresses,28/24/2022 09:24:16
+Create_address Bulevardul Ion Minulescu 39,28/24/2022 09:24:16
+Get_city Bucharest,28/24/2022 09:24:16
+Get_all_addresses,28/24/2022 09:24:16
+Get_all_clients ,28/24/2022 09:24:16
+Get_all_events,28/24/2022 09:24:16
+Load_cities,28/25/2022 09:25:45
+Create_address Bucharest,28/25/2022 09:25:45
+Create_address Berlin,28/25/2022 09:25:45
+Create_address Los Angeles,28/25/2022 09:25:45
+Load_cities,28/25/2022 09:25:45
+Create_address Bucharest,28/25/2022 09:25:45
+Create_address Berlin,28/25/2022 09:25:45
+Create_address Los AngelesBucharest,28/25/2022 09:25:45
+Create_address Berlin,28/25/2022 09:25:45
+Create_address Los Angeles,28/25/2022 09:25:45
+Load_addresses,28/25/2022 09:25:45
+Create_address Bulevardul Unirii 5,28/25/2022 09:25:45
+Get_city Bucharest,28/25/2022 09:25:45
+Create_address Aleea Pridvorului 1,28/25/2022 09:25:45
+Get_city Bucharest,28/25/2022 09:25:45
+Create_address Arne Janssen 23,28/25/2022 09:25:45
+Get_city Berlin,28/25/2022 09:25:45
+Create_address Bulevardul Ion Minulescu 39,28/25/2022 09:25:45
+Get_city Bucharest,28/25/2022 09:25:45
+Create_address Bulevardul Ion Minulescu 39,28/25/2022 09:25:45
+Get_city Bucharest,28/25/2022 09:25:45
+Load_cities,28/25/2022 09:25:45
+Create_address Bucharest,28/25/2022 09:25:45
+Create_address Berlin,28/25/2022 09:25:45
+Create_address Los AngelesBucharest,28/25/2022 09:25:45
+Create_address Berlin,28/25/2022 09:25:45
+Create_address Los Angeles,28/25/2022 09:25:45
+Create_address Bucharest,28/25/2022 09:25:45
+Create_address Berlin,28/25/2022 09:25:45
+Create_address Los AngelesBucharest,28/25/2022 09:25:45
+Create_address Berlin,28/25/2022 09:25:45
+Create_address Los Angeles,28/25/2022 09:25:45
+Load_addresses,28/25/2022 09:25:45
+Create_address Bulevardul Unirii 5,28/25/2022 09:25:45
+Get_city Bucharest,28/25/2022 09:25:45
+Create_address Aleea Pridvorului 1,28/25/2022 09:25:45
+Get_city Bucharest,28/25/2022 09:25:45
+Create_address Arne Janssen 23,28/25/2022 09:25:45
+Get_city Berlin,28/25/2022 09:25:45
+Create_address Bulevardul Ion Minulescu 39,28/25/2022 09:25:45
+Get_city Bucharest,28/25/2022 09:25:45
+Create_address Bulevardul Ion Minulescu 39,28/25/2022 09:25:45
+Get_city Bucharest,28/25/2022 09:25:45
+Load_clients ,28/25/2022 09:25:45
+Create_client Marian Popescu,28/25/2022 09:25:45
+Get_address Aleea Pridvorului 1,28/25/2022 09:25:45
+Create_client Ionel Danciulescu,28/25/2022 09:25:45
+Get_address Bulevardul Unirii 5,28/25/2022 09:25:45
+Create_client Thomas Muller,28/25/2022 09:25:45
+Get_address Arne Janssen 23,28/25/2022 09:25:45
+Load_organizers,28/25/2022 09:25:45
+Create_organizerYaya events,28/25/2022 09:25:45
+Create_organizerCrewetzel events,28/25/2022 09:25:45
+Create_address Sofia,28/25/2022 09:25:45
+Get_all_addresses,28/25/2022 09:25:45
+Create_address Bulevardul Ion Minulescu 39,28/25/2022 09:25:45
+Get_city Bucharest,28/25/2022 09:25:45
+Get_all_addresses,28/25/2022 09:25:45
+Get_all_clients ,28/25/2022 09:25:45
+Get_all_events,28/25/2022 09:25:45
+Load_cities,28/26/2022 09:26:03
+Create_address Bucharest,28/26/2022 09:26:03
+Create_address Berlin,28/26/2022 09:26:03
+Create_address Los Angeles,28/26/2022 09:26:03
+Load_cities,28/26/2022 09:26:03
+Create_address Bucharest,28/26/2022 09:26:03
+Create_address Berlin,28/26/2022 09:26:03
+Create_address Los Angeles,28/26/2022 09:26:03
+Load_addresses,28/26/2022 09:26:03
+Create_address Bulevardul Unirii 5,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Create_address Aleea Pridvorului 1,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Create_address Arne Janssen 23,28/26/2022 09:26:03
+Get_city Berlin,28/26/2022 09:26:03
+Create_address Bulevardul Ion Minulescu 39,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Create_address Bulevardul Ion Minulescu 39,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Create_address Bulevardul Ion Minulescu 39,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Load_cities,28/26/2022 09:26:03
+Create_address Bucharest,28/26/2022 09:26:03
+Create_address Berlin,28/26/2022 09:26:03
+Create_address Los Angeles,28/26/2022 09:26:03
+Load_addresses,28/26/2022 09:26:03
+Create_address Bulevardul Unirii 5,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Create_address Aleea Pridvorului 1,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Create_address Arne Janssen 23,28/26/2022 09:26:03
+Get_city Berlin,28/26/2022 09:26:03
+Create_address Bulevardul Ion Minulescu 39,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Create_address Bulevardul Ion Minulescu 39,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Create_address Bulevardul Ion Minulescu 39,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Load_clients ,28/26/2022 09:26:03
+Create_client Marian Popescu,28/26/2022 09:26:03
+Get_address Aleea Pridvorului 1,28/26/2022 09:26:03
+Create_client Ionel Danciulescu,28/26/2022 09:26:03
+Get_address Bulevardul Unirii 5,28/26/2022 09:26:03
+Create_client Thomas Muller,28/26/2022 09:26:03
+Get_address Arne Janssen 23,28/26/2022 09:26:03
+Load_organizers,28/26/2022 09:26:03
+Create_organizerYaya events,28/26/2022 09:26:03
+Create_organizerCrewetzel events,28/26/2022 09:26:03
+Create_address Sofia,28/26/2022 09:26:03
+Get_all_addresses,28/26/2022 09:26:03
+Create_address Bulevardul Ion Minulescu 39,28/26/2022 09:26:03
+Get_city Bucharest,28/26/2022 09:26:03
+Get_all_addresses,28/26/2022 09:26:03
+Get_all_clients ,28/26/2022 09:26:03
+Get_all_events,28/26/2022 09:26:03
+Load_cities,28/28/2022 09:28:24
+Create_address Bucharest,28/28/2022 09:28:24
+Create_address Berlin,28/28/2022 09:28:24
+Create_address Los Angeles,28/28/2022 09:28:24
+Create_address Sofia,28/28/2022 09:28:24
+Load_cities,28/28/2022 09:28:24
+Create_address Bucharest,28/28/2022 09:28:24
+Create_address Berlin,28/28/2022 09:28:24
+Create_address Los Angeles,28/28/2022 09:28:24
+Create_address Sofia,28/28/2022 09:28:24
+Load_addresses,28/28/2022 09:28:24
+Create_address Bulevardul Unirii 5,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Create_address Aleea Pridvorului 1,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Create_address Arne Janssen 23,28/28/2022 09:28:24
+Get_city Berlin,28/28/2022 09:28:24
+Create_address Bulevardul Ion Minulescu 39,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Create_address Bulevardul Ion Minulescu 39,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Create_address Bulevardul Ion Minulescu 39,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Create_address Bulevardul Ion Minulescu 39,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Load_cities,28/28/2022 09:28:24
+Create_address Bucharest,28/28/2022 09:28:24
+Create_address Berlin,28/28/2022 09:28:24
+Create_address Los Angeles,28/28/2022 09:28:24
+Create_address Sofia,28/28/2022 09:28:24
+Load_addresses,28/28/2022 09:28:24
+Create_address Bulevardul Unirii 5,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Create_address Aleea Pridvorului 1,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Create_address Arne Janssen 23,28/28/2022 09:28:24
+Get_city Berlin,28/28/2022 09:28:24
+Create_address Bulevardul Ion Minulescu 39,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Create_address Bulevardul Ion Minulescu 39,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Create_address Bulevardul Ion Minulescu 39,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Create_address Bulevardul Ion Minulescu 39,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Load_clients ,28/28/2022 09:28:24
+Create_client Marian Popescu,28/28/2022 09:28:24
+Get_address Aleea Pridvorului 1,28/28/2022 09:28:24
+Create_client Ionel Danciulescu,28/28/2022 09:28:24
+Get_address Bulevardul Unirii 5,28/28/2022 09:28:24
+Create_client Thomas Muller,28/28/2022 09:28:24
+Get_address Arne Janssen 23,28/28/2022 09:28:24
+Load_organizers,28/28/2022 09:28:24
+Create_organizerYaya events,28/28/2022 09:28:24
+Create_organizerCrewetzel events,28/28/2022 09:28:24
+Create_address Sofia,28/28/2022 09:28:24
+Get_all_addresses,28/28/2022 09:28:24
+Create_address Bulevardul Ion Minulescu 39,28/28/2022 09:28:24
+Get_city Bucharest,28/28/2022 09:28:24
+Get_all_addresses,28/28/2022 09:28:24
+Get_all_clients ,28/28/2022 09:28:24
+Get_all_events,28/28/2022 09:28:24
+Load_cities,28/30/2022 09:30:14
+Create_address Bucharest,28/30/2022 09:30:14
+Create_address Berlin,28/30/2022 09:30:14
+Create_address Los Angeles,28/30/2022 09:30:14
+Create_address Sofia,28/30/2022 09:30:14
+Create_address Sofia,28/30/2022 09:30:14
+Load_cities,28/30/2022 09:30:14
+Create_address Bucharest,28/30/2022 09:30:14
+Create_address Berlin,28/30/2022 09:30:14
+Create_address Los Angeles,28/30/2022 09:30:14
+Create_address Sofia,28/30/2022 09:30:14
+Create_address Sofia,28/30/2022 09:30:14
+Load_addresses,28/30/2022 09:30:14
+Create_address Bulevardul Unirii 5,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Aleea Pridvorului 1,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Arne Janssen 23,28/30/2022 09:30:14
+Get_city Berlin,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Load_cities,28/30/2022 09:30:14
+Create_address Bucharest,28/30/2022 09:30:14
+Create_address Berlin,28/30/2022 09:30:14
+Create_address Los Angeles,28/30/2022 09:30:14
+Create_address Sofia,28/30/2022 09:30:14
+Create_address Sofia,28/30/2022 09:30:14
+Load_addresses,28/30/2022 09:30:14
+Create_address Bulevardul Unirii 5,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Aleea Pridvorului 1,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Arne Janssen 23,28/30/2022 09:30:14
+Get_city Berlin,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Load_clients ,28/30/2022 09:30:14
+Create_client Marian Popescu,28/30/2022 09:30:14
+Get_address Aleea Pridvorului 1,28/30/2022 09:30:14
+Create_client Ionel Danciulescu,28/30/2022 09:30:14
+Get_address Bulevardul Unirii 5,28/30/2022 09:30:14
+Create_client Thomas Muller,28/30/2022 09:30:14
+Get_address Arne Janssen 23,28/30/2022 09:30:14
+Load_organizers,28/30/2022 09:30:14
+Create_organizerYaya events,28/30/2022 09:30:14
+Create_organizerCrewetzel events,28/30/2022 09:30:14
+Create_address Sofia,28/30/2022 09:30:14
+Get_all_addresses,28/30/2022 09:30:14
+Create_address Bulevardul Ion Minulescu 39,28/30/2022 09:30:14
+Get_city Bucharest,28/30/2022 09:30:14
+Get_all_addresses,28/30/2022 09:30:14
+Get_all_clients ,28/30/2022 09:30:14
+Get_all_events,28/30/2022 09:30:14
