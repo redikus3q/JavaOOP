@@ -3,7 +3,7 @@ package Services;
 import Entities.Client;
 import Entities.EventPackage.Event;
 import Entities.Ticket;
-import Services.FileManipulation.WriteFileService;
+import Services.DBManipulation.WriteDatabase;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -11,10 +11,10 @@ import java.util.Map;
 public class TicketService {
     static int id = 1;
     Map<Integer, Ticket> tickets;
-    WriteFileService writeFile;
+    WriteDatabase writeFile;
 
     public TicketService() {
-        this.writeFile = WriteFileService.initiateWrite();
+        this.writeFile = WriteDatabase.initiateWrite();
         tickets = new HashMap<>();
     }
 

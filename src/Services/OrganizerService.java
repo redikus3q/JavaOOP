@@ -1,58 +1,70 @@
 package Services;
 
 import Entities.Organizer;
-import Services.FileManipulation.ReadFileService;
-import Services.FileManipulation.WriteFileService;
+import Services.DatabaseManagement.DBConnection;
+import Services.DBManipulation.WriteDatabase;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.sql.*;
 
 public class OrganizerService {
-    List<Organizer> organizers;
-    WriteFileService writeFile;
-    String fileName = "data/organizers.csv";
+    WriteDatabase writeDB;
+    Connection connection;
 
     public OrganizerService() {
-        this.writeFile = WriteFileService.initiateWrite();
-        organizers = new ArrayList<>();
-        this.loadOrganizers();
+        this.writeDB = WriteDatabase.initiateWrite();
+        this.connection = DBConnection.connect().getConnection();
     }
 
-    private void loadOrganizers(){
-        writeFile.writeAudit("Load_organizers");
-        ReadFileService readFile = ReadFileService.initiateRead();
-        ArrayList<String []> output = readFile.read(fileName);
-        for(var organizer : output){
-            this.createOrganizer(organizer[0], true);
-        }
-    }
 
     public Organizer createOrganizer(String name){
-        return this.createOrganizer(name, false);
-    }
-
-    public Organizer createOrganizer(String name, boolean load){
-        writeFile.writeAudit("Create_organizer" + name);
+        writeDB.writeAudit("Create_organizer " + name);
         Organizer organizer = new Organizer(name);
-        organizers.add(organizer);
-        if(!load) {
-            writeFile.write(name, fileName);
-        }
+        writeDB.write(name, "organizers");
+        System.out.println("Created organizer " + name);
         return organizer;
     }
 
-    public Organizer getOrganizer(String name){
-        writeFile.writeAudit("Get_organizer " + name);
-        for(Organizer organizer : organizers){
-            if(organizer.getName().equals(name)){
-                return organizer;
+    public int getOrganizerId(String name){
+        writeDB.writeAudit("Get_organizer " + name);
+        try {
+            Statement statement = connection.createStatement();
+            String query = String.format("select * from organizers where name = '%s'", name);
+            ResultSet result = statement.executeQuery(query);
+            if(!result.next()){
+                return 0;
             }
+            int id = result.getInt("idOrganizer");
+            statement.close();
+            return id;
+        } catch (SQLException e) {
+            e.printStackTrace();
         }
-        return null;
+        return 0;
     }
 
-    public ArrayList<Organizer> getAllOrganizers(){
-        writeFile.writeAudit("Get_all_events");
-        return new ArrayList<Organizer>(organizers);
+    public void deleteOrganizer(String name){
+        writeDB.writeAudit("Delete_organizer " + name);
+        try {
+            Statement statement = connection.createStatement();
+            String query = String.format("delete from organizers where name = '%s'", name);
+            int number = statement.executeUpdate(query);
+            System.out.println("Deleted " + number + " organizers with the name " + name);
+            statement.close();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void updateOrganizer(int id, String name){
+        writeDB.writeAudit("Update_organizer " + name);
+        try {
+            Statement statement = connection.createStatement();
+            String query = String.format("update organizers set name = '%s' where (idOrganizer = '%d')", name, id);
+            statement.executeUpdate(query);
+            System.out.println("Changed the name of organizer with id " + id + " to " + name);
+            statement.close();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 }

@@ -667,3 +667,423 @@ Get_city Bucharest,28/30/2022 09:30:14
 Get_all_addresses,28/30/2022 09:30:14
 Get_all_clients ,28/30/2022 09:30:14
 Get_all_events,28/30/2022 09:30:14
+Load_cities,23/46/2022 08:46:44
+Create_address Bucharest,23/46/2022 08:46:44
+Create_address Berlin,23/46/2022 08:46:44
+Create_address Los Angeles,23/46/2022 08:46:44
+Create_address ,23/46/2022 08:46:44
+Load_cities,23/46/2022 08:46:44
+Create_address Bucharest,23/46/2022 08:46:44
+Create_address Berlin,23/46/2022 08:46:44
+Create_address Los Angeles,23/46/2022 08:46:44
+Create_address ,23/46/2022 08:46:44
+Load_addresses,23/46/2022 08:46:44
+Create_address Bulevardul Unirii 5,23/46/2022 08:46:44
+Get_city Bucharest,23/46/2022 08:46:44
+Create_address Aleea Pridvorului 1,23/46/2022 08:46:44
+Get_city Bucharest,23/46/2022 08:46:44
+Create_address Arne Janssen 23,23/46/2022 08:46:44
+Get_city Berlin,23/46/2022 08:46:44
+Load_cities,23/47/2022 08:47:57
+Create_address Bucharest,23/47/2022 08:47:57
+Create_address Berlin,23/47/2022 08:47:57
+Create_address Los Angeles,23/47/2022 08:47:57
+Create_address ,23/47/2022 08:47:57
+Load_cities,23/47/2022 08:47:57
+Create_address Bucharest,23/47/2022 08:47:57
+Create_address Berlin,23/47/2022 08:47:57
+Create_address Los Angeles,23/47/2022 08:47:57
+Create_address ,23/47/2022 08:47:57
+Load_addresses,23/47/2022 08:47:57
+Create_address Bulevardul Unirii 5,23/47/2022 08:47:57
+Get_city Bucharest,23/47/2022 08:47:57
+Create_address Aleea Pridvorului 1,23/47/2022 08:47:57
+Get_city Bucharest,23/47/2022 08:47:57
+Create_address Arne Janssen 23,23/47/2022 08:47:57
+Get_city Berlin,23/47/2022 08:47:57
+Load_cities,23/49/2022 09:49:18
+Create_address Bucharest,23/49/2022 09:49:18
+Create_address Berlin,23/49/2022 09:49:18
+Create_address Los Angeles,23/49/2022 09:49:18
+Create_address ,23/49/2022 09:49:18
+Create_address Sofia,23/49/2022 09:49:18
+Get_all_addresses,23/49/2022 09:49:18
+Load_cities,23/50/2022 09:50:25
+Create_address Bucharest,23/50/2022 09:50:25
+Create_address Berlin,23/50/2022 09:50:25
+Create_address Los Angeles,23/50/2022 09:50:25
+Create_address ,23/50/2022 09:50:25
+Create_address Sofia,23/50/2022 09:50:25
+Get_all_addresses,23/50/2022 09:50:25
+Load_cities,23/51/2022 09:51:22
+Create_address Bucharest,23/51/2022 09:51:22
+Create_address Berlin,23/51/2022 09:51:22
+Create_address Los Angeles,23/51/2022 09:51:22
+Create_address ,23/51/2022 09:51:22
+Create_address Sofia,23/51/2022 09:51:22
+Get_all_addresses,23/51/2022 09:51:22
+Load_cities,23/51/2022 09:51:47
+Create_address Bucharest,23/51/2022 09:51:47
+Create_address Berlin,23/51/2022 09:51:47
+Create_address Los Angeles,23/51/2022 09:51:47
+Create_address ,23/51/2022 09:51:47
+Create_address Sofia,23/51/2022 09:51:47
+Get_all_addresses,23/51/2022 09:51:47
+Load_cities,23/00/2022 10:00:52
+Create_address Bucharest,23/00/2022 10:00:52
+Create_address Berlin,23/00/2022 10:00:52
+Create_address Los Angeles,23/00/2022 10:00:52
+Create_address ,23/00/2022 10:00:52
+Create_address Sofia,23/00/2022 10:00:52
+Get_all_addresses,23/00/2022 10:00:52
+Load_cities,23/01/2022 10:01:19
+Create_address Bucharest,23/01/2022 10:01:19
+Create_address Berlin,23/01/2022 10:01:19
+Create_address Los Angeles,23/01/2022 10:01:19
+Create_address ,23/01/2022 10:01:19
+Create_address Sofia,23/01/2022 10:01:19
+Get_all_addresses,23/01/2022 10:01:19
+Create_city Sofia,23/13/2022 11:13:44
+Get_all_cites,23/13/2022 11:13:44
+Create_address Bulevardul Ion Minulescu 39,23/13/2022 11:13:44
+Get_city Bucharest,23/13/2022 11:13:44
+Get_all_addresses,23/13/2022 11:13:44
+Create_city Sofia,23/14/2022 11:14:07
+Get_all_cites,23/14/2022 11:14:07
+Create_address Bulevardul Ion Minulescu 39,23/14/2022 11:14:07
+Get_city Bucharest,23/14/2022 11:14:07
+Get_all_addresses,23/14/2022 11:14:07
+Create_city Sofia,24/26/2022 01:26:10
+Get_all_cites,24/26/2022 01:26:10
+Create_address Bulevardul Ion Minulescu 39,24/26/2022 01:26:10
+Get_city Bucharest,24/26/2022 01:26:10
+Get_all_addresses,24/26/2022 01:26:10
+Create_city Sofia,24/26/2022 01:26:55
+Get_all_cites,24/26/2022 01:26:55
+Create_address Bulevardul Ion Minulescu 39,24/26/2022 01:26:55
+Get_city Bucharest,24/26/2022 01:26:55
+Get_all_addresses,24/26/2022 01:26:55
+Create_city Sofia,24/33/2022 01:33:19
+Get_all_cites,24/33/2022 01:33:19
+Create_address Bulevardul Ion Minulescu 39,24/33/2022 01:33:19
+Get_city Bucharest,24/33/2022 01:33:19
+Get_all_addresses,24/33/2022 01:33:19
+Create_city Bucharest,24/33/2022 01:33:36
+Get_all_cites,24/33/2022 01:33:36
+Create_address Bulevardul Ion Minulescu 39,24/33/2022 01:33:36
+Get_city Bucharest,24/33/2022 01:33:36
+Get_all_addresses,24/33/2022 01:33:36
+Create_city Bucharest,24/39/2022 01:39:17
+Get_all_cites,24/39/2022 01:39:17
+Create_address Bulevardul Ion Minulescu 39,24/39/2022 01:39:17
+Get_city Bucharest,24/39/2022 01:39:17
+Get_all_addresses,24/39/2022 01:39:17
+Create_city Bucharest,24/47/2022 01:47:48
+Delete_city Bucharest,24/47/2022 01:47:48
+Get_all_cites,24/47/2022 01:47:48
+Create_address Bulevardul Ion Minulescu 39,24/47/2022 01:47:48
+Get_city Bucharest,24/47/2022 01:47:48
+Get_all_addresses,24/47/2022 01:47:49
+Create_city Bucharest,24/48/2022 01:48:41
+Delete_city Bucharest,24/48/2022 01:48:42
+Get_all_cites,24/48/2022 01:48:42
+Create_address Bulevardul Ion Minulescu 39,24/48/2022 01:48:42
+Get_city Bucharest,24/48/2022 01:48:42
+Get_all_addresses,24/48/2022 01:48:42
+Create_city Bucharest,24/49/2022 01:49:33
+Delete_city Bucharest,24/49/2022 01:49:33
+Get_all_cites,24/49/2022 01:49:33
+Create_address Bulevardul Ion Minulescu 39,24/49/2022 01:49:33
+Get_city Bucharest,24/49/2022 01:49:33
+Get_all_addresses,24/49/2022 01:49:33
+Create_city Bucharest,24/51/2022 01:51:25
+Delete_city Bucharest,24/51/2022 01:51:25
+Get_all_cites,24/51/2022 01:51:25
+Create_address Bulevardul Ion Minulescu 39,24/51/2022 01:51:25
+Get_city Bucharest,24/51/2022 01:51:25
+Get_all_addresses,24/51/2022 01:51:25
+Create_city Bucharest,24/52/2022 01:52:00
+Delete_city Sofia,24/52/2022 01:52:00
+Delete_city London,24/52/2022 01:52:00
+Get_all_cites,24/52/2022 01:52:00
+Create_address Bulevardul Ion Minulescu 39,24/52/2022 01:52:00
+Get_city Bucharest,24/52/2022 01:52:00
+Get_all_addresses,24/52/2022 01:52:00
+Delete_city Bucharest,24/52/2022 01:52:44
+Create_city Sofia,24/52/2022 01:52:44
+Create_city London,24/52/2022 01:52:44
+Get_all_cites,24/52/2022 01:52:44
+Create_address Bulevardul Ion Minulescu 39,24/52/2022 01:52:44
+Get_city Bucharest,24/52/2022 01:52:44
+Get_all_addresses,24/52/2022 01:52:44
+Delete_city Sofia,24/53/2022 01:53:09
+Create_city London,24/53/2022 01:53:09
+Get_all_cites,24/53/2022 01:53:09
+Create_address Bulevardul Ion Minulescu 39,24/53/2022 01:53:09
+Get_city Bucharest,24/53/2022 01:53:09
+Get_all_addresses,24/53/2022 01:53:09
+Delete_city Sofia,24/57/2022 01:57:45
+Create_city London,24/57/2022 01:57:45
+Update_city Gradistea,24/57/2022 01:57:45
+Create_address Bulevardul Ion Minulescu 39,24/57/2022 01:57:45
+Get_city Bucharest,24/57/2022 01:57:45
+Get_all_addresses,24/57/2022 01:57:45
+Delete_city Sofia,24/59/2022 01:59:23
+Create_city London,24/59/2022 01:59:23
+Update_city Gradistea,24/59/2022 01:59:23
+Create_address Bulevardul Ion Minulescu 39,24/59/2022 01:59:23
+Get_city Bucharest,24/59/2022 01:59:23
+Get_all_addresses,24/59/2022 01:59:23
+Delete_city Sofia,24/59/2022 01:59:57
+Create_city London,24/59/2022 01:59:57
+Update_city Gradistea,24/59/2022 01:59:57
+Create_address Bulevardul Ion Minulescu 39,24/59/2022 01:59:57
+Get_city Bucharest,24/59/2022 01:59:57
+Get_all_addresses,24/59/2022 01:59:57
+Delete_city Sofia,24/00/2022 02:00:16
+Create_city London,24/00/2022 02:00:16
+Update_city Gradistea,24/00/2022 02:00:16
+Create_address Bulevardul Ion Minulescu 39,24/00/2022 02:00:16
+Get_city Bucharest,24/00/2022 02:00:16
+Get_all_addresses,24/00/2022 02:00:16
+Delete_city Sofia,24/16/2022 02:16:02
+Create_city London,24/16/2022 02:16:02
+Update_city Gradistea,24/16/2022 02:16:02
+Create_address Bulevardul Ion Minulescu 39,24/16/2022 02:16:02
+Get_city Bucharest,24/16/2022 02:16:02
+Get_address Bulevardul Ion Minulescu 39,24/16/2022 02:16:02
+Delete_city Sofia,24/16/2022 02:16:30
+Create_city London,24/16/2022 02:16:30
+Update_city Gradistea,24/16/2022 02:16:30
+Create_address Bulevardul Ion Minulescu 39,24/16/2022 02:16:30
+Get_city Bucharest,24/16/2022 02:16:30
+Get_address Bulevardul Ion Minulescu 39,24/16/2022 02:16:30
+Delete_city Sofia,24/18/2022 02:18:51
+Create_city London,24/18/2022 02:18:51
+Update_city Gradistea,24/18/2022 02:18:51
+Create_address Bulevardul Ion Minulescu 39,24/18/2022 02:18:51
+Get_city Bucharest,24/18/2022 02:18:51
+Get_address Bulevardul Ion Minulescu 39,24/18/2022 02:18:51
+Delete_address Bulevardul Ion Minulescu 39,24/18/2022 02:18:51
+Delete_city Sofia,24/20/2022 02:20:28
+Create_city London,24/20/2022 02:20:28
+Update_city Gradistea,24/20/2022 02:20:28
+Create_address Bulevardul Ion Minulescu 39,24/20/2022 02:20:28
+Get_city Bucharest,24/20/2022 02:20:28
+Get_address Bulevardul Ion Minulescu 39,24/20/2022 02:20:28
+Delete_city Sofia,24/20/2022 02:20:33
+Create_city London,24/20/2022 02:20:33
+Update_city Gradistea,24/20/2022 02:20:33
+Create_address Bulevardul Ion Minulescu 39,24/20/2022 02:20:33
+Get_city Bucharest,24/20/2022 02:20:33
+Get_address Bulevardul Ion Minulescu 39,24/20/2022 02:20:33
+Delete_address Bulevardul Ion Minulescu 39,24/20/2022 02:20:33
+Delete_city Sofia,24/24/2022 02:24:02
+Create_city London,24/24/2022 02:24:02
+Update_city Gradistea,24/24/2022 02:24:02
+Create_address Bulevardul Ion Minulescu 39,24/24/2022 02:24:02
+Get_city Bucharest,24/24/2022 02:24:02
+Get_address Bulevardul Ion Minulescu 39,24/24/2022 02:24:02
+Delete_address Bulevardul Ion Minulescu 39,24/24/2022 02:24:02
+Delete_city Sofia,24/25/2022 02:25:10
+Create_city London,24/25/2022 02:25:10
+Update_city Gradistea,24/25/2022 02:25:10
+Create_address Bulevardul Ion Minulescu 39,24/25/2022 02:25:10
+Get_city Bucharest,24/25/2022 02:25:10
+Get_address Bulevardul Ion Minulescu 39,24/25/2022 02:25:10
+Delete_address Bulevardul Ion Minulescu 39,24/25/2022 02:25:10
+Delete_city Sofia,24/26/2022 02:26:07
+Create_city London,24/26/2022 02:26:07
+Update_city Gradistea,24/26/2022 02:26:07
+Create_address Bulevardul Ion Minulescu 39,24/26/2022 02:26:07
+Get_city Bucharest,24/26/2022 02:26:07
+Get_address Bulevardul Ion Minulescu 39,24/26/2022 02:26:07
+Delete_city Sofia,24/27/2022 02:27:49
+Create_city London,24/27/2022 02:27:49
+Update_city Gradistea,24/27/2022 02:27:49
+Create_address Bulevardul Ion Minulescu 39,24/27/2022 02:27:49
+Get_city Bucharest,24/27/2022 02:27:49
+Get_address Bulevardul Ion Minulescu 39,24/27/2022 02:27:49
+Update_address Calea Rahova 2,24/27/2022 02:27:49
+Create_city London,24/29/2022 02:29:28
+Get_city London,24/29/2022 02:29:28
+Update_city Gradistea,24/29/2022 02:29:28
+Create_address Bulevardul Ion Minulescu 39,24/29/2022 02:29:28
+Get_city Bucharest,24/29/2022 02:29:28
+Get_address Bulevardul Ion Minulescu 39,24/29/2022 02:29:28
+Update_address Calea Rahova 2,24/29/2022 02:29:28
+Create_city London,24/30/2022 02:30:12
+Get_city London,24/30/2022 02:30:12
+Update_city Gradistea,24/30/2022 02:30:12
+Create_address Bulevardul Ion Minulescu 39,24/30/2022 02:30:12
+Get_city Bucharest,24/30/2022 02:30:12
+Get_address Bulevardul Ion Minulescu 39,24/30/2022 02:30:12
+Update_address Calea Rahova 2,24/30/2022 02:30:12
+Create_city London,24/55/2022 02:55:03
+Get_city London,24/55/2022 02:55:03
+Update_city Gradistea,24/55/2022 02:55:03
+Create_address Bulevardul Ion Minulescu 39,24/55/2022 02:55:03
+Get_city Bucharest,24/55/2022 02:55:03
+Get_address id Bulevardul Ion Minulescu 39,24/55/2022 02:55:03
+Update_address Calea Rahova 2,24/55/2022 02:55:03
+Create_client George Mincu,24/55/2022 02:55:03
+Get_address id Bulevardul Ion Minulescu 39,24/55/2022 02:55:03
+Get_address Bulevardul Ion Minulescu 39,24/55/2022 02:55:03
+Get_address id Bulevardul Ion Minulescu 39,24/55/2022 02:55:03
+Create_city London,24/59/2022 02:59:00
+Get_city London,24/59/2022 02:59:00
+Update_city Gradistea,24/59/2022 02:59:00
+Create_address Bulevardul Ion Minulescu 39,24/59/2022 02:59:00
+Get_city Bucharest,24/59/2022 02:59:00
+Get_address id Bulevardul Ion Minulescu 39,24/59/2022 02:59:00
+Update_address Calea Rahova 2,24/59/2022 02:59:00
+Create_client George Mincu,24/59/2022 02:59:00
+Get_address id Bulevardul Ion Minulescu 39,24/59/2022 02:59:00
+Get_address Bulevardul Ion Minulescu 39,24/59/2022 02:59:00
+Get_address id Bulevardul Ion Minulescu 39,24/59/2022 02:59:00
+Get_client id George Mincu,24/59/2022 02:59:00
+Create_city London,24/00/2022 03:00:50
+Get_city London,24/00/2022 03:00:50
+Update_city Gradistea,24/00/2022 03:00:50
+Create_address Bulevardul Ion Minulescu 39,24/00/2022 03:00:50
+Get_city Bucharest,24/00/2022 03:00:50
+Get_address id Bulevardul Ion Minulescu 39,24/00/2022 03:00:50
+Update_address Calea Rahova 2,24/00/2022 03:00:50
+Create_client George Mincu,24/00/2022 03:00:50
+Get_address id Bulevardul Ion Minulescu 39,24/00/2022 03:00:50
+Get_address Bulevardul Ion Minulescu 39,24/00/2022 03:00:50
+Get_address id Bulevardul Ion Minulescu 39,24/00/2022 03:00:50
+Get_client id George Mincu,24/00/2022 03:00:50
+Delete_client George Mincu,24/00/2022 03:00:50
+Create_city London,24/02/2022 03:02:15
+Get_city London,24/02/2022 03:02:15
+Update_city Gradistea,24/02/2022 03:02:15
+Create_address Bulevardul Ion Minulescu 39,24/02/2022 03:02:15
+Get_city Bucharest,24/02/2022 03:02:15
+Get_address id Bulevardul Ion Minulescu 39,24/02/2022 03:02:15
+Update_address Calea Rahova 2,24/02/2022 03:02:15
+Create_client George Mincu,24/02/2022 03:02:15
+Get_address id Bulevardul Ion Minulescu 39,24/02/2022 03:02:15
+Get_address Bulevardul Ion Minulescu 39,24/02/2022 03:02:15
+Get_address id Bulevardul Ion Minulescu 39,24/02/2022 03:02:15
+Get_client id George Mincu,24/02/2022 03:02:15
+Update_client Ion Dolanecu,24/02/2022 03:02:15
+Create_city London,24/03/2022 03:03:29
+Get_city London,24/03/2022 03:03:29
+Update_city Gradistea,24/03/2022 03:03:29
+Create_address Bulevardul Ion Minulescu 39,24/03/2022 03:03:29
+Get_city Bucharest,24/03/2022 03:03:29
+Get_address id Bulevardul Ion Minulescu 39,24/03/2022 03:03:30
+Update_address Calea Rahova 2,24/03/2022 03:03:30
+Create_client George Mincu,24/03/2022 03:03:30
+Get_address id Bulevardul Ion Minulescu 39,24/03/2022 03:03:30
+Get_address Bulevardul Ion Minulescu 39,24/03/2022 03:03:30
+Get_address id Bulevardul Ion Minulescu 39,24/03/2022 03:03:30
+Get_client id George Mincu,24/03/2022 03:03:30
+Update_client Ion Dolanecu,24/03/2022 03:03:30
+Create_city London,24/04/2022 03:04:02
+Get_city London,24/04/2022 03:04:02
+Update_city Gradistea,24/04/2022 03:04:02
+Create_address Bulevardul Ion Minulescu 39,24/04/2022 03:04:02
+Get_city Bucharest,24/04/2022 03:04:02
+Get_address id Bulevardul Ion Minulescu 39,24/04/2022 03:04:02
+Update_address Calea Rahova 2,24/04/2022 03:04:02
+Create_client George Mincu,24/04/2022 03:04:02
+Get_address id Bulevardul Ion Minulescu 39,24/04/2022 03:04:02
+Get_address Bulevardul Ion Minulescu 39,24/04/2022 03:04:02
+Get_address id Bulevardul Ion Minulescu 39,24/04/2022 03:04:02
+Get_client id George Mincu,24/04/2022 03:04:02
+Update_client Ion Dolanecu,24/04/2022 03:04:02
+Create_city London,24/06/2022 04:06:08
+Get_city London,24/06/2022 04:06:08
+Update_city Gradistea,24/06/2022 04:06:08
+Create_address Bulevardul Ion Minulescu 39,24/06/2022 04:06:08
+Get_city Bucharest,24/06/2022 04:06:08
+Get_address id Bulevardul Ion Minulescu 39,24/06/2022 04:06:08
+Update_address Calea Rahova 2,24/06/2022 04:06:08
+Create_client George Mincu,24/06/2022 04:06:08
+Get_address id Bulevardul Ion Minulescu 39,24/06/2022 04:06:08
+Get_address Bulevardul Ion Minulescu 39,24/06/2022 04:06:08
+Get_address id Bulevardul Ion Minulescu 39,24/06/2022 04:06:08
+Get_client id George Mincu,24/06/2022 04:06:08
+Update_client Ion Dolanecu,24/06/2022 04:06:08
+Create_organizer Crewetzel events,24/06/2022 04:06:08
+Get_organizer London,24/06/2022 04:06:08
+Create_city London,24/06/2022 04:06:26
+Get_city London,24/06/2022 04:06:26
+Update_city Gradistea,24/06/2022 04:06:26
+Create_address Bulevardul Ion Minulescu 39,24/06/2022 04:06:26
+Get_city Bucharest,24/06/2022 04:06:26
+Get_address id Bulevardul Ion Minulescu 39,24/06/2022 04:06:26
+Update_address Calea Rahova 2,24/06/2022 04:06:26
+Create_client George Mincu,24/06/2022 04:06:26
+Get_address id Bulevardul Ion Minulescu 39,24/06/2022 04:06:26
+Get_address Bulevardul Ion Minulescu 39,24/06/2022 04:06:26
+Get_address id Bulevardul Ion Minulescu 39,24/06/2022 04:06:26
+Get_client id George Mincu,24/06/2022 04:06:26
+Update_client Ion Dolanecu,24/06/2022 04:06:26
+Create_organizer Crewetzel events,24/06/2022 04:06:26
+Get_organizer London,24/06/2022 04:06:26
+Create_city London,24/06/2022 04:06:46
+Get_city London,24/06/2022 04:06:46
+Update_city Gradistea,24/06/2022 04:06:47
+Create_address Bulevardul Ion Minulescu 39,24/06/2022 04:06:47
+Get_city Bucharest,24/06/2022 04:06:47
+Get_address id Bulevardul Ion Minulescu 39,24/06/2022 04:06:47
+Update_address Calea Rahova 2,24/06/2022 04:06:47
+Create_client George Mincu,24/06/2022 04:06:47
+Get_address id Bulevardul Ion Minulescu 39,24/06/2022 04:06:47
+Get_address Bulevardul Ion Minulescu 39,24/06/2022 04:06:47
+Get_address id Bulevardul Ion Minulescu 39,24/06/2022 04:06:47
+Get_client id George Mincu,24/06/2022 04:06:47
+Update_client Ion Dolanecu,24/06/2022 04:06:47
+Create_organizer Crewetzel events,24/06/2022 04:06:47
+Get_organizer London,24/06/2022 04:06:47
+Create_city London,24/07/2022 04:07:24
+Get_city London,24/07/2022 04:07:24
+Update_city Gradistea,24/07/2022 04:07:24
+Create_address Bulevardul Ion Minulescu 39,24/07/2022 04:07:24
+Get_city Bucharest,24/07/2022 04:07:24
+Get_address id Bulevardul Ion Minulescu 39,24/07/2022 04:07:24
+Update_address Calea Rahova 2,24/07/2022 04:07:24
+Create_client George Mincu,24/07/2022 04:07:24
+Get_address id Bulevardul Ion Minulescu 39,24/07/2022 04:07:24
+Get_address Bulevardul Ion Minulescu 39,24/07/2022 04:07:24
+Get_address id Bulevardul Ion Minulescu 39,24/07/2022 04:07:24
+Get_client id George Mincu,24/07/2022 04:07:24
+Update_client Ion Dolanecu,24/07/2022 04:07:24
+Create_organizer Crewetzel events,24/07/2022 04:07:24
+Get_organizer London,24/07/2022 04:07:24
+Delete_organizer Crewetzel events,24/07/2022 04:07:24
+Update_organizer Boss events,24/07/2022 04:07:24
+Create_city London,24/07/2022 04:07:52
+Get_city London,24/07/2022 04:07:52
+Update_city Gradistea,24/07/2022 04:07:52
+Create_address Bulevardul Ion Minulescu 39,24/07/2022 04:07:52
+Get_city Bucharest,24/07/2022 04:07:52
+Get_address id Bulevardul Ion Minulescu 39,24/07/2022 04:07:52
+Update_address Calea Rahova 2,24/07/2022 04:07:52
+Create_client George Mincu,24/07/2022 04:07:52
+Get_address id Bulevardul Ion Minulescu 39,24/07/2022 04:07:52
+Get_address Bulevardul Ion Minulescu 39,24/07/2022 04:07:52
+Get_address id Bulevardul Ion Minulescu 39,24/07/2022 04:07:52
+Get_client id George Mincu,24/07/2022 04:07:52
+Update_client Ion Dolanecu,24/07/2022 04:07:52
+Create_organizer Crewetzel events,24/07/2022 04:07:52
+Get_organizer London,24/07/2022 04:07:52
+Create_city London,24/08/2022 04:08:03
+Get_city London,24/08/2022 04:08:04
+Update_city Gradistea,24/08/2022 04:08:04
+Create_address Bulevardul Ion Minulescu 39,24/08/2022 04:08:04
+Get_city Bucharest,24/08/2022 04:08:04
+Get_address id Bulevardul Ion Minulescu 39,24/08/2022 04:08:04
+Update_address Calea Rahova 2,24/08/2022 04:08:04
+Create_client George Mincu,24/08/2022 04:08:04
+Get_address id Bulevardul Ion Minulescu 39,24/08/2022 04:08:04
+Get_address Bulevardul Ion Minulescu 39,24/08/2022 04:08:04
+Get_address id Bulevardul Ion Minulescu 39,24/08/2022 04:08:04
+Get_client id George Mincu,24/08/2022 04:08:04
+Update_client Ion Dolanecu,24/08/2022 04:08:04
+Create_organizer Crewetzel events,24/08/2022 04:08:04
+Get_organizer London,24/08/2022 04:08:04
+Update_organizer Boss events,24/08/2022 04:08:04

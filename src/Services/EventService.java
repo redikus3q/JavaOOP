@@ -7,16 +7,16 @@ import Entities.EventPackage.Standup;
 import Entities.Organizer;
 import Entities.PerformerPackage.Performer;
 import Entities.Venue;
-import Services.FileManipulation.WriteFileService;
+import Services.DBManipulation.WriteDatabase;
 
 import java.util.*;
 
 public class EventService {
     SortedSet<Event> events;
-    WriteFileService writeFile;
+    WriteDatabase writeFile;
 
     public EventService() {
-        this.writeFile = WriteFileService.initiateWrite();
+        this.writeFile = WriteDatabase.initiateWrite();
         events = new TreeSet<Event>(Comparator.comparing(Event::getName));
     }
 
