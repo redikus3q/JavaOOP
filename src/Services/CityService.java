@@ -64,8 +64,13 @@ public class CityService {
         try {
             Statement statement = connection.createStatement();
             String query = String.format("update cities set name = '%s' where (idCity = '%d')", name, id);
-            statement.executeUpdate(query);
-            System.out.println("Changed the name of city with id " + id + " to " + name);
+            int number = statement.executeUpdate(query);
+            if(number != 0) {
+                System.out.println("Changed the name of city with id " + id + " to " + name);
+            }
+            else{
+                System.out.println("Cant find city with id " + id);
+            }
             statement.close();
         } catch (SQLException e) {
             e.printStackTrace();
